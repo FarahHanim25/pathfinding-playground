@@ -65,7 +65,7 @@ A* uses Manhattan distance as its heuristic to estimate the remaining distance t
 Clone the repository:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/FarahHanim25/pathfinding-playground.git
 ```
 
 Navigate into the project directory:
