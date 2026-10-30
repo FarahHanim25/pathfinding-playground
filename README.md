@@ -35,6 +35,9 @@ The application also includes an algorithm guide that explains each algorithm's 
 
 ![Pathfinder Live Visualization](screenshots/live-visualization.png)
 
+### Algorithm Comparison
+
+![Pathfinder Algorithm Comparison](screenshots/algorithm-comparison.png)
 
 ## Algorithms
 
