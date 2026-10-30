@@ -130,16 +130,34 @@ npm run lint
 
 ```text
 pathfinding-playground/
+├── screenshots/
+│   ├── main-interface.png
+│   ├── grid.png
+│   ├── live-visualization.png
+│   └── algorithm-comparison.png
+├── public/
+│   ├── favicon.svg
+│   └── icons.svg
 ├── src/
+│   ├── assets/
+│   │   └── hero.png
 │   ├── App.tsx
+│   ├── App.css
 │   ├── index.css
+│   ├── main.tsx
 │   ├── pathfinding.ts
 │   ├── pathfinding.test.ts
 │   └── algorithmExplanations.ts
-├── public/
+├── .gitignore
+├── eslint.config.js
 ├── index.html
 ├── package.json
-└── README.md
+├── package-lock.json
+├── README.md
+├── tsconfig.app.json
+├── tsconfig.json
+├── tsconfig.node.json
+└── vite.config.ts
 ```
 
 ## Project Goals
