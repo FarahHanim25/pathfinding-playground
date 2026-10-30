@@ -26,6 +26,9 @@ The application also includes an algorithm guide that explains each algorithm's 
 ### Main Interface
 
 ![Pathfinder Main Interface](screenshots/main-interface.png)
+
+### Grid Workspace
+
 ![Pathfinder Grid Workspace](screenshots/grid.png)
 
 
