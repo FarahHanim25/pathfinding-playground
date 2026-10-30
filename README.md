@@ -21,6 +21,14 @@ The application also includes an algorithm guide that explains each algorithm's 
 - **Random challenges:** Generate random walls, terrain configurations, and mixed challenges.
 - **Maze generation:** Create structured mazes to experiment with different search scenarios.
 
+## Screenshots
+
+### Main Interface
+
+![Pathfinder Main Interface](screenshots/main-interface.png)
+![Pathfinder Grid Workspace](screenshots/grid.png)
+
+
 ## Algorithms
 
 | Algorithm | Search strategy | Optimality |
