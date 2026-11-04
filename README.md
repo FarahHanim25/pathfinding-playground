@@ -39,6 +39,12 @@ The application also includes an algorithm guide that explains each algorithm's 
 
 ![Pathfinder Algorithm Comparison](screenshots/algorithm-comparison.png)
 
+## Live Demo
+
+🚀 **[Try Pathfinder](https://pathfinding-playground-five.vercel.app/)**
+
+Explore and visualize pathfinding algorithms directly in your browser — no installation required.
+
 ## Algorithms
 
 | Algorithm | Search strategy | Optimality |
